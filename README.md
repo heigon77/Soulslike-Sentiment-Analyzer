@@ -179,7 +179,11 @@ To add or remove games, edit the `SOULSLIKE_GAMES` dictionary in `config.py`.
 | 10 | Word clouds per game | TF-IDF keywords |
 | 11 | Steam vs Reddit | Sentiment comparison across sources |
 
-The final dashboard is generated at `output/report.html` — a single self-contained HTML file requiring no external dependencies beyond a connection to the Plotly CDN.
+The final dashboard is generated at `output/report.html` — a single self-contained HTML file requiring no external dependencies beyond a connection to the Plotly CDN.  
+
+### Record of a report
+
+[▶️ Watch a demo](./recorded_report/video_example_report.mp4)
 
 ---
 
