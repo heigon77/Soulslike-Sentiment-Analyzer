@@ -15,8 +15,9 @@ venv/
 env/
 ENV/
 
-# Data (potentially large / generated)
+# Data & outputs (potentially large / generated)
 data/
+output/
 
 # Jupyter
 .ipynb_checkpoints/
