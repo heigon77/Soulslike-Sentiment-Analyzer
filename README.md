@@ -181,9 +181,11 @@ To add or remove games, edit the `SOULSLIKE_GAMES` dictionary in `config.py`.
 
 The final dashboard is generated at `output/report.html` — a single self-contained HTML file requiring no external dependencies beyond a connection to the Plotly CDN.  
 
-### Record of a report
+### Record of a report demo
 
-[▶️ Watch a demo](./recorded_report/video_example_report.mp4)
+<p align="center">
+  <img src="./recorded_report/gif_demo.gif" width="1000">
+</p>
 
 ---
 
